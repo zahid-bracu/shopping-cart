@@ -1,3 +1,6 @@
+*{
+	font-size: 62.5%;
+}
 body{
 	background: #fff;
 }
@@ -53,3 +56,21 @@ body{
 	background-color: #2FBE70;
 	border: none;
 }
+h5{
+	font-size: 2rem;
+}
+
+#amountTwo, #amountOne, #subTotal, #total{
+	font-size: 2rem;
+}
+
+
+#plusOne, #minusOne {
+	font-size: 1rem;
+}
+
+#plusOne2, #minusOne2 {
+	font-size: 1.6rem;
+}
+
+ 
